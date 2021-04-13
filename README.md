@@ -1,6 +1,6 @@
 # Projet Gradients
 
-[Lien vers notre site](https://gradients-project-start-black-team.netlify.app/=
+[Lien vers notre site](https://gradients-project-start-black-team.netlify.app/)
 
 Dans ce challenge vous avez pour but de construire une application web _monopage_ [comme celle-ci.](https://alyra-gradients-bonus.netlify.app/)
 
