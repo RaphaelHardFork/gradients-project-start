@@ -21,3 +21,13 @@ const GradientsList = (props) => {
 }
 
 export default GradientsList
+
+/*
+{gradients.map((elem)=>{
+  if (filter==='Tous'){
+    return <li key={elem.name} className="col-lg-3 col-md-4 col-sm-6"><Gradient setFilter={setFilter} filter={filter} colorStart={elem.start} colorEnd={elem.end} name={elem.name} tags={elem.tags} /></li>
+  }else if (elem.tags.includes(filter)){
+    return <li key={elem.name} className="col-lg-3 col-md-4 col-sm-6"><Gradient setFilter={setFilter} filter={filter} colorStart={elem.start} colorEnd={elem.end} name={elem.name} tags={elem.tags} /></li>
+  }
+})}
+*/

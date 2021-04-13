@@ -5,7 +5,7 @@ import gradients from "./gradients"
 
 function App() {
   return (
-    <div>
+    <div className="min-vh-100 d-flex flex-column">
       <GradientsHeader gradients={gradients} />
       <GradientsApp gradients={gradients} />
       <Footer />
